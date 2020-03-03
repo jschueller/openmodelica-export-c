@@ -1,11 +1,13 @@
 openmodelica fmu export c
 =========================
 
+Example of FMU export calling a C function.
+
 Dependencies:
 
-  - omc compiler
-  - gcc compiler
-  - Python/OpenTURNS/otfmi
+- omc compiler
+- gcc compiler
+- Python/OpenTURNS/otfmi
 
 Compile C::
 
